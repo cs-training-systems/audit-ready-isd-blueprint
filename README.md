@@ -8,16 +8,16 @@ regulated federal, defense-adjacent, and technical mission environments.
 
 **Author:** Christopher A. Stamplis, M.Ed.  
 **Document ID:** REGLXD-GRAD-BP-001  
-**Version:** 0.5  
+**Version:** 0.6  
 **Status:** Portfolio artifact — simulated reference prototype, revised draft  
-**Release date:** 2026-03-10  
+**Release date:** 2026-03-12  
 
 ---
 
 ## Open the full technical blueprint
 
 **Primary review copy (PDF):**  
-[20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf](./20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf)
+[20260312_REGLXD-GRAD-BP-001_v0.6_CAS.pdf](./20260312_REGLXD-GRAD-BP-001_v0.6_CAS.pdf)
 
 Or visit the hosted review page:  
 https://cs-training-systems.github.io/audit-ready-isd-blueprint/
@@ -47,7 +47,7 @@ technical blueprint referenced by condensed portfolio writing samples.
 | File | Purpose |
 |------|---------|
 | index.html | GitHub Pages landing page (primary public entry point) |
-| 20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf | Full technical portfolio artifact |
+| 20260312_REGLXD-GRAD-BP-001_v0.6_CAS.pdf | Full technical portfolio artifact |
 | NOTICE.md | Proprietary rights notice |
 | README.md | This file |
 
@@ -66,5 +66,5 @@ All rights reserved. See [NOTICE.md](./NOTICE.md).
 
 ## Document control
 
-This repository corresponds to REGLXD-GRAD-BP-001 v0.5.
+This repository corresponds to REGLXD-GRAD-BP-001 v0.6.
 Future releases will be tagged in the commit history.
