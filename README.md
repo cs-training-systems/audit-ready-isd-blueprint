@@ -17,7 +17,7 @@ regulated federal, defense-adjacent, and technical mission environments.
 ## Open the full technical blueprint
 
 **Primary review copy (PDF):**  
-[20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf](./20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf)
+[20260310_REGLXD-GRAD-BP-001_v0.5_CAS.pdf](https://github.com/cs-training-systems/audit-ready-isd-blueprint/blob/main/20260310_REGLXD-GRAD-BP-001_v0_5_CAS.pdf)
 
 Or visit the hosted review page:  
 https://cs-training-systems.github.io/audit-ready-isd-blueprint/
