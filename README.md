@@ -1,9 +1,9 @@
 # audit-ready-isd-blueprint
-Portfolio artifact: evidence-anchored instructional systems design (ISD) blueprint for audit-ready training in federal, defense-adjacent, and regulated R&D environments.
+Proprietary evidence-anchored instructional systems design (ISD) blueprint for audit-ready training in federal, defense-adjacent, and regulated R&D environments (portfolio artifact version).
 
 # Audit-Ready Training Systems Design Blueprint
 
-Portfolio artifact demonstrating evidence-anchored instructional systems design for
+Portfolio version, demonstrating evidence-anchored instructional systems design for
 regulated federal, defense-adjacent, and technical mission environments.
 
 **Author:** Christopher A. Stamplis, M.Ed.  
@@ -24,7 +24,7 @@ https://cs-training-systems.github.io/audit-ready-isd-blueprint/
 
 ---
 
-## What this artifact demonstrates
+## What this document demonstrates
 
 - audit-ready training architecture
 - regulatory traceability and evidence logic
@@ -38,7 +38,7 @@ https://cs-training-systems.github.io/audit-ready-isd-blueprint/
 ## Repository purpose
 
 This repository provides a stable, professional, versioned public link to the full
-technical blueprint referenced by condensed portfolio writing samples.
+technical blueprint referenced by a further-condensed writing sample version of the same document (truncated to skip portions dense with technical or regulatory jargon).
 
 ---
 
@@ -47,7 +47,7 @@ technical blueprint referenced by condensed portfolio writing samples.
 | File | Purpose |
 |------|---------|
 | index.html | GitHub Pages landing page (primary public entry point) |
-| 20260316_REGLXD-GRAD-BP-001_v0.6_CAS.pdf | Full technical portfolio artifact |
+| 20260316_REGLXD-GRAD-BP-001_v0.6_CAS.pdf | Full technical document (portfolio artifact version) |
 | NOTICE.md | Proprietary rights notice |
 | README.md | This file |
 
